@@ -2,7 +2,7 @@
 
 ## 📂 DBMS and SQL Roadmap
 
-├── 🟢 ** [Basics of DBMS](./Basics.md)**
+├── 🟢 [Basics of DBMS](./Basics.md)
 
 │ ├── 📌 What is a Database?  
 │ ├── 📌 Types of Databases (Relational vs. Non-Relational)  
@@ -10,14 +10,14 @@
 │ ├── 📌 Entity-Relationship (ER) Diagrams  
 │ └── 📖 Resources:
 │ ├── YouTube tutorials on DBMS basics  
-│ └── "Database System Concepts" by Silberschatz  
+│ └── "Database System Concepts" by Silberschatz
 
 ├── 🟢 **2. Setting Up the Environment**
 
 │ ├── 🛠️ Install VS Code  
 │ ├── 🛠️ Install SQL Extensions (e.g., SQLTools)  
 │ ├── 🛠️ Set up SQLite/MySQL locally  
-│ └── 🛠️ Test with simple table creation and queries  
+│ └── 🛠️ Test with simple table creation and queries
 
 ├── 🟡 **3. Core SQL Concepts**
 
@@ -27,7 +27,7 @@
 │ ├── 🏗️ Aggregate Functions (COUNT, AVG, SUM, MIN, MAX)  
 │ ├── 🏗️ Joins: INNER, LEFT, RIGHT, FULL  
 │ ├── 🏗️ Subqueries and Common Table Expressions (CTEs)  
-│ └── 🛠️ Practice with dummy datasets (e.g., "Student" table)  
+│ └── 🛠️ Practice with dummy datasets (e.g., "Student" table)
 
 ├── 🟡 **4. Project 1: Library Management System**
 
@@ -36,7 +36,7 @@
 │ ├── 🎯 Write Queries:
 │ ├── List overdue books  
 │ ├── Find the most borrowed books  
-│ └── Show active members  
+│ └── Show active members
 
 ├── 🟠 **5. Advanced SQL Concepts**
 
@@ -44,7 +44,7 @@
 │ ├── 📌 Transactions (COMMIT, ROLLBACK)  
 │ ├── 📌 Triggers and Stored Procedures  
 │ ├── 📌 Data Normalization (1NF, 2NF, 3NF)  
-│ └── 🛠️ Enhance Project 1 with Triggers  
+│ └── 🛠️ Enhance Project 1 with Triggers
 
 ├── 🔴 **6. Project 2: E-Commerce Database**
 
@@ -53,7 +53,7 @@
 │ ├── Track inventory  
 │ ├── Generate sales reports  
 │ └── Find the most purchased product  
-│ └── 🎯 Use Joins and Subqueries  
+│ └── 🎯 Use Joins and Subqueries
 
 └── 🚀 **7. Explore More**
 
