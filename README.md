@@ -3,6 +3,7 @@
 ## 📂 DBMS and SQL Roadmap
 
 ├── 🟢 **1. Basics of DBMS**
+|
 │ ├── 📌 What is a Database?  
 │ ├── 📌 Types of Databases (Relational vs. Non-Relational)  
 │ ├── 📌 Key Concepts: Tables, Rows, Columns, Keys (Primary, Foreign, Composite)  
