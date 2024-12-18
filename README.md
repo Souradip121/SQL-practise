@@ -2,7 +2,7 @@
 
 ## 📂 DBMS and SQL Roadmap
 
-├── 🟢 **1. Basics of DBMS**
+├── 🟢 ** [Basics of DBMS](./Basics.md)**
 
 │ ├── 📌 What is a Database?  
 │ ├── 📌 Types of Databases (Relational vs. Non-Relational)  
